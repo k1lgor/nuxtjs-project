@@ -1,5 +1,9 @@
 # nuxtjs-project
 
+https://planets-nuxtjs.netlify.app
+
+https://planets-nuxtjs.vercel.app
+
 ![planets](./images/planets.gif)
 
 ## Build Setup
